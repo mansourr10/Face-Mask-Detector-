@@ -36,7 +36,7 @@ The code expects the following directory structure:
 │   └── Test/
 │       ├── WithMask/
 │       └── WithoutMask/
-
+```
 ---
 
 🛠️ Technical Implementation Details
