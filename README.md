@@ -22,7 +22,7 @@ The system trains three distinct classifiers: **Support Vector Machine (SVM)**, 
 The code expects the following directory structure:
 
 ```text
-.
+Mask Detection
 ├── main.py                      # The primary application script
 ├── mask_detector_all_models.pkl # The saved model state (generated after first run)
 ├── model_comparison.png         # Auto-generated accuracy chart
